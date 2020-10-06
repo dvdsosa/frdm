@@ -1,0 +1,10 @@
+ble_conn_manager.c:76:6:BleConnManager_GenericEvent	16	static
+ble_conn_manager.c:116:6:BleConnManager_GapDualRoleConfig	8	static
+ble_conn_manager.c:129:6:BleConnManager_GapPeripheralConfig	8	static
+ble_conn_manager.c:141:6:BleConnManager_GapCentralConfig	8	static
+ble_conn_manager.c:150:6:BleConnManager_GapPeripheralEvent	16	static
+ble_conn_manager.c:314:6:BleConnManager_GapCentralEvent	16	static
+ble_conn_manager.c:440:13:BleConnManager_EnablePrivacy	8	static
+ble_conn_manager.c:456:13:BleConnManager_DisablePrivacy	8	static
+ble_conn_manager.c:489:13:BleConnManager_GapCommonConfig	8	static
+ble_conn_manager.c:529:13:BleConnManager_MCUInfoToSmpKeys	144	static

@@ -1,0 +1,11 @@
+device_info_service.c:64:13:Dis_Start	32	static
+device_info_service.c:98:13:Dis_Stop	16	static
+device_info_service.c:108:20:Dis_SetManufacturerName	64	static
+device_info_service.c:125:20:Dis_SetModelNumber	64	static
+device_info_service.c:143:20:Dis_SetSerialNumber	64	static
+device_info_service.c:160:20:Dis_SetHwRevision	64	static
+device_info_service.c:178:20:Dis_SetFwRevision	64	static
+device_info_service.c:196:20:Dis_SetSwRevision	64	static
+device_info_service.c:213:20:Dis_SetSystemId	48	static
+device_info_service.c:230:20:Dis_SetRcdl	64	static
+device_info_service.c:247:20:Dis_SetPnpId	48	static
